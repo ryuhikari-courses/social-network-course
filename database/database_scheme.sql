@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS curso_social_network;
+CREATE DATABASE IF NOT EXISTS social_network_course;
 USE curso_social_network;
 
 CREATE TABLE users(
